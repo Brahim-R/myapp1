@@ -48,7 +48,7 @@ Resources:
               - Effect: Allow
                 Action: "amplify:*"
                 Resource: "*"
-
+##lol duces broski
   AmplifyApp:
     Type: "AWS::Amplify::App"
     Properties:
